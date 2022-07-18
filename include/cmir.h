@@ -14,5 +14,9 @@
 #ifndef CMIR_H
 #define CMIR_H
 
+#include "cmir_defs.h"
+#include "cmir_platforms.h"
+#include "cmir_instance.h"
+#include "cmir_window.h"
 
 #endif // CMIR_H
